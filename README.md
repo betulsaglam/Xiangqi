@@ -1,0 +1,5 @@
+Xiangqi, also known as Chinese chess, is a traditional board game similar to regular chess but with additional rules and different pieces. For more information on Xiangqi, please visit https://www.xiangqi.com/how-to-play-xiangqi
+This is a project I made on my second term of university for my Computer Programming II class. The game is played on the terminal, with meaningful outputs being printed as you go on. Capital letters represent red pieces and non capital letters represent black pieces. 
+Red (like white in regular chess) starts the game and moves are written consecutively such as "a1","b1" (from: a1, to: b1). The board will be updated and printed accordingly unless the player tries to do an illegal move.
+The player can also save and load the game both in binary and txt format. As this is one of my earliest codes, it has some flaws such as the checkmate method not working properly in some cases.
+Note: the project might not compile or show differently on the terminal because of the non-english characters being used to represent pieces.
